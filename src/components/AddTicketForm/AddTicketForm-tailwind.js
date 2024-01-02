@@ -1,3 +1,0 @@
-export const INPUT = "block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-green-600 appearance-none dark:text-zinc-700 dark:border-zinc-500 dark:focus:border-zinc-500 focus:outline-none focus:ring-0 focus:border-green-600 peer";
-
-export const LABEL = "absolute text-sm text-zinc-600 dark:text-zinc-500 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6 rtl:peer-focus:translate-x-1/4 rtl:peer-focus:left-auto";
